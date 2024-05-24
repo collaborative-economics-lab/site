@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Infinite Possibilities: Collaborative Economics in Modern Society"
-date: 2024-05-21
+date: 2024-05-15
 categories: [introduction, economics, collaboration]
 ---
 
