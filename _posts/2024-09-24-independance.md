@@ -4,7 +4,7 @@ title: "We Are Independent, and That’s Not Easy"
 date: 2024-09-24
 categories: [economics, collaboration, individualism]
 ---
-_This post was written in collaboration with many of the team members at Koii Labs (koii.network)[koii.network] and in particular Avi Pillay, our intrepid scrum master and often question-answerer._
+_This post was written in collaboration with many of the team members at Koii Labs [koii.network](koii.network) and in particular Avi Pillay, our intrepid scrum master and often question-answerer._
 
 _Many of these ideas are also inspired by words from my mentor, Taylor Gerring, who learned them first hand in the early days of Ethereum, Bitcoin, and the broader decentralization-libertarian revolution from 2010 to 2015, and patiently imparted these lessons to me and others._
 
