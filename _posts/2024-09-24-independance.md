@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "Storage: The Key Primitive to a New Internet"
-date: 2024-05-21
-categories: [introduction, economics, collaboration]
+title: "We Are Independent, and That’s Not Easy"
+date: 2024-09-24
+categories: [economics, collaboration, individualism]
 ---
-
-### **We Are Independent, and That’s Not Easy**
 The new generation of decentralized organizations are horizontal. We learn together, we earn together, and we can beat incumbants in any industry if we do it right. This new breed of business shares the wealth and the risks, and **we can all win together**. 
 
 For decades, traditional business models have poisoned the well of innovation. They reward mediocrity, stifle independence, and reduce the individual to a cog in a corporate machine. They train employees to wait—wait for instructions, wait for permission, wait for someone else to think for them. It’s a hierarchy of helplessness.
