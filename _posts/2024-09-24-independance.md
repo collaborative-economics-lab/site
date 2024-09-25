@@ -6,8 +6,11 @@ categories: [economics, collaboration, individualism]
 ---
 _This post was written in collaboration with many of the team members at Koii Labs (koii.network)[koii.network] and in particular Avi Pillay, our intrepid scrum master and often question-answerer._
 
+_Many of these ideas are also inspired by words from my mentor, Taylor Gerring, who learned them first hand in the early days of Ethereum, Bitcoin, and the broader decentralization-libertarian revolution from 2010 to 2015, and patiently imparted these lessons to me and others._
+
 The new generation of decentralized organizations are horizontal. We learn together, we earn together, and we can beat incumbants in any industry if we do it right. This new breed of business shares the wealth and the risks, and **we can all win together**. 
 
+**Inspiration**
 For decades, traditional business models have poisoned the well of innovation. They reward mediocrity, stifle independence, and reduce the individual to a cog in a corporate machine. They train employees to wait—wait for instructions, wait for permission, wait for someone else to think for them. It’s a hierarchy of helplessness.
 
 But the world is changing, and so must organizations. At Koii, we’re leading a revolution where **waiting is the enemy** and **action is the only currency that matters**. If you can’t think for yourself, you’re not just useless—you’re holding everyone else back. Decentralized organizations require more than just followers. We need self-sovereign, independent thinkers who **act without asking** and embrace the consequences.
