@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "From Node Sale Mania to Market Meltdown: The Impending Supply-Demand Disaster"
-date: 2024-09-28
+date: 2024-09-2
 categories: [economics, collaboration, financials]
 ---
 This past summer, the Web3 world was ablaze with the latest gold rush: **node sales** and the explosive hype surrounding **Decentralized Physical Infrastructure Networks (DePINs)** and **AI integration**. Slick marketing campaigns promised untold riches, passive income streams, and a chance to be part of the next technological revolution. Investors threw caution to the wind, pouring money into projects without so much as a second glance at the underlying economics.
@@ -131,12 +131,12 @@ It's time for investors, developers, and the entire Web3 community to pull their
 * **Developers and Project Leaders:** Stop chasing quick cash through node sales and token offerings. Focus on creating real value by solving genuine problems.  
 * **The Community at Large:** Hold projects accountable. Don't let flashy marketing overshadow the need for substance.
 
-In our next post, we'll explore how embracing **elastic supply models** and respecting supply and demand dynamics can pave the way for sustainable growth in decentralized networks. We'll take a hard look at how the **Koii Network** stands out by aligning supply with actual demand, avoiding the pitfalls that have ensnared so many others.
+In our next post, we'll explore how embracing **elastic supply models** and leveraging market forces can lead to more sustainable decentralized networks. We'll delve into how the **DePIN Projects that** exemplify this approach can balance supply and demand, avoiding the pitfalls that have plagued recent projects.
 
 ---
 
-**Stay Tuned for Part 2: Embracing Elastic Supply—How Koii Aligns Supply and Demand for Sustainable Decentralized Growth**
+**Stay Tuned for Part 2: Embracing Elastic Supply—How DePINs can be designed to reward investors AND node operators, without compromising on performance**
 
 ---
 
-*Disclaimer: This post is for informational purposes only and reflects the author's views. It is not financial advice. Always conduct your own research before making any investment decisions.*
+*Disclaimer: This post is for informational purposes only and does not constitute financial advice. Always conduct your own research before making any investment decisions.*
