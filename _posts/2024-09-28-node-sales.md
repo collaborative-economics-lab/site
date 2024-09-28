@@ -119,7 +119,7 @@ The Web3 community needs a reality check. The reckless abandon with which projec
 
 **Key Takeaways:**
 
-* **Demand Must Precede Supply:** Building without a proven need is a fool's errand.  
+* **Demand Must Precede Supply:** Building without a proven need is a fool's errand. (some exceptions apply, see [reflexivity, and how markets can create momentum - George Soros](https://www.youtube.com/watch?v=oCaCrWzFPYY))  
 * **Flexibility Is Essential:** Locked-in costs are a ball and chain that can drag a project under.  
 * **Economic Principles Matter:** Supply and demand dynamics are not optional considerations; they are the bedrock of any successful venture.
 
