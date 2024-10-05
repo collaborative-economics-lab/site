@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "From Node Sale Mania to Market Meltdown: The Impending Supply-Demand Disaster"
-date: 2024-09-2
+date: 2024-09-28
 categories: [economics, collaboration, financials]
 ---
 This past summer, the Web3 world was ablaze with the latest gold rush: **node sales** and the explosive hype surrounding **Decentralized Physical Infrastructure Networks (DePINs)** and **AI integration**. Slick marketing campaigns promised untold riches, passive income streams, and a chance to be part of the next technological revolution. Investors threw caution to the wind, pouring money into projects without so much as a second glance at the underlying economics.

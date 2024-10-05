@@ -1,13 +1,10 @@
 ---
 layout: post
-title: "From Node Sale Mania to Market Meltdown: The Impending Supply-Demand Disaster"
-date: 2024-09-2
+title: "AI for All"
+date: 2024-10-5
 categories: [economics, collaboration, financials]
 ---
-
-# AI for All
-
-By Al Morris
+_By Al Morris_
 
 I recently heard that Steve Jobs and Elon Musk both received mentorship by Larry Ellison, the founder of Oracle. 
 
