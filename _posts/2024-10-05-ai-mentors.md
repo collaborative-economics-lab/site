@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI for All"
+title: "AI for All: Digital Mentorship for Everyone, for Free"
 date: 2024-10-5
 categories: [economics, collaboration, financials]
 ---
