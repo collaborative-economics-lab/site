@@ -135,7 +135,7 @@ In our next post, we'll explore how embracing **elastic supply models** and leve
 
 ---
 
-**Stay Tuned for Part 2: Embracing Elastic Supply—How DePINs can be designed to reward investors AND node operators, without compromising on performance**
+[**Read Part 2: Embracing Elastic Supply—How DePINs can be designed to reward investors AND node operators, without compromising on performance**](http://econ3.org/elastic-supply)
 
 ---
 
