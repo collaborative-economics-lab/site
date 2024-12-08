@@ -1,6 +1,6 @@
 # Preventing Robocalypse, The Power of the Crowd
 
-On Friday, we saw the greatest progress toward decentralization in a single week that I’ve ever witnessed. The Koii team, along with so many others working toward a decentralized future, are rapidly evolving toward a global solution for individual computing. Their relentless, selfless sacrifices are nothing short of extraordinary, and when I think about their work, it moves me to tears.
+On Friday, we saw the greatest progress toward decentralization in a single week that I’ve ever witnessed. The Koii team, along with so many others working toward a decentralized future, are rapidly evolving toward a global solution for individual computing. Their relentless, selfless sacrifices are nothing short of extraordinary.
 
 With the recent U.S. election, we are entering a new age—one that could become a renaissance of innovation, a revolutionary turning point, or a descent into chaos. This new leadership in the United States, equipped with Silicon Valley’s understanding of technology and an unparalleled ability to organize and build, is poised to forge powerful alliances and drive incredible breakthroughs. Tesla is already leading the world in robotics, and within a few short years, we are certain to see the rise of a fully robotic and automated defense infrastructure. This is no longer speculative; it’s an economic inevitability—and increasingly, a necessity in the face of global instability.
 
