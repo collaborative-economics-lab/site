@@ -9,6 +9,8 @@ categories: [introduction, economics, collaboration]
 
 In the digital age, protocols play a crucial role in shaping how we interact with one another. Simply put, protocols are standardized ways of facilitating interactions, ensuring that exchanges are efficient, secure, and reliable. One of the earliest and most influential examples of this is the Bitcoin protocol, which laid the foundation for the development of various blockchain-based systems.
 
+<!--more-->
+
 #### Early Internet Protocols: The Foundation of Web2
 
 Before the advent of Web3 and decentralized protocols, the internet was built on a series of standardized protocols that facilitated communication between devices. These protocols, while revolutionary, focused primarily on enabling basic connectivity and data exchange.

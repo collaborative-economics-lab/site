@@ -10,6 +10,8 @@ But beneath the glossy veneer and grandiose promises lies a stark reality: **Man
 
 Drawing lessons from Warren Buffett's time-tested investment wisdom, particularly his focus on productive assets, we'll expose how this rampant negligence isn't just irresponsible—it's a recipe for disaster. Buckle up, because we're about to unveil the uncomfortable truths that the slick salesmen of the Web3 hype machine don't want you to see.
 
+<!--more-->
+
 ---
 
 ## **Part 1: The Summer of Delusion—Node Sales and DePIN Hype Run Amok**
@@ -67,7 +69,7 @@ These projects have committed the cardinal sin of business:
 * **Token Inflation:** Any network with a fixed number of nodes has to share the earnings broadly, resulting in wider inflation of the output token and increased sell pressure as each noe only makes just enough to cover fixed costs.  
 * **Zero Flexibility:** With costs locked in, they have no room to maneuver when things go south.
 
-Ironically, when the sharing economy products first took off, such as Uber or AirBnb, their main value driver was unseating ‘licensed markets’ such as Taxi Medallions and Hotel Permits. Now, it seems, web3 has come full circle to reinventing the licensing markets and ultimately building back the gatekeeping that created these opportunities in the first place. Good news, though \- Real DePINs can recapture these markets easily with elastic supply\! 
+Ironically, when the sharing economy products first took off, such as Uber or AirBnb, their main value driver was unseating 'licensed markets' such as Taxi Medallions and Hotel Permits. Now, it seems, web3 has come full circle to reinventing the licensing markets and ultimately building back the gatekeeping that created these opportunities in the first place. Good news, though \- Real DePINs can recapture these markets easily with elastic supply\! 
 
 ### **The Demand Mirage**
 

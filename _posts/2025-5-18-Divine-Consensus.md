@@ -7,9 +7,9 @@ categories: [economics, collaboration, consensus]
 _By Al Morris_
 
 
-Divine Consensus: The Universal Thread
-
 Divine consensus is the thing which all religions share, which all scientists share, which all experiences of life share—shared with every creature which can see, hear, know, or feel; shared with everything that is as it is.
+
+<!--more-->
 
 Divine consensus is the consensus of each of our place where we are, and has been plagued—and perhaps corrupted—by rationality. Rationalizations more so, which allow us to exist as we ought not to be, with the full comprehension of our wrong choices, feeling justified in our pursuit of an alternate path from that which we know—or at least are aware—to be the common and well-trodden one.
 
@@ -32,9 +32,4 @@ And now, with the final consequence of the finite space of our planet, we are fa
 Shall we yield to the obvious things before us—to the things we see when we close our eyes that tell us exactly where we are? The things that we don't need to rationalize?
 
 Should we live in that world, or should we try to rationalize new worlds?
-
-
----
-
-Let me know if you’d like a banner image or meta description for the post.
 

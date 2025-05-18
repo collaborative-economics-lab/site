@@ -10,7 +10,8 @@
   {% include post-header-home.html %}
 </div>
 <div class="post-excerpt-home">
-  {{ post.excerpt }}
+  {% assign excerpt_content = post.content | replace: '_By Al Morris_', '' | replace: 'By Al Morris', '' | replace: '*By Al Morris*', '' | strip_html | truncatewords: 50 %}
+  {{ excerpt_content }}
   <p class="text-right"><a href="{{ post.url }}">Continue Reading &rarr;</a></p>
 </div>
 {% endfor %}

@@ -7,6 +7,8 @@ categories: [introduction, economics, collaboration]
 
 The concepts of finite and infinite games, introduced by James P. Carse and further explored by Dan Jeffries, provide profound insights into how we structure our lives and societies. These ideas are particularly relevant when considering the evolution of economic systems, especially in the context of collaborative economics.
 
+<!--more-->
+
 **Finite vs. Infinite Games**
 
 Finite games are defined by clear rules, distinct players, and specific outcomes. They are played with the objective of winning, and once the goal is achieved, the game ends. Examples include sports, politics, and traditional business competitions. In contrast, infinite games are played with the purpose of continuing the play. The rules can change, players can come and go, and the primary objective is to perpetuate the game. This approach is more dynamic and adaptable, focusing on long-term sustainability rather than short-term victories.

@@ -14,20 +14,21 @@ layout: default
 </div>
 {% if site.data.theme.show_post_navs %}
   {% if page.previous or page.next %}
-    <div class="post-navs row">
+    <div class="post-navs">
       {% if page.previous %}
-        <div class="col-md-6 post-nav">
+        <div class="post-nav">
           <h3 class="section-header">
             Older
             <span class="text-muted"> &middot; </span>
             <a href="{{ "/archive"  }}">View Archive ({{ site.posts.size }})</a>
           </h3>
           <h2 class="post-title-link"><a href="{{ page.previous.url }}">{{ page.previous.title }}</a></h2>
-          {{ page.previous.excerpt | markdownify }}
+          {% assign prev_excerpt = page.previous.content | replace: '_By Al Morris_', '' | replace: 'By Al Morris', '' | replace: '*By Al Morris*', '' | strip_html | truncatewords: 25 %}
+          <p>{{ prev_excerpt }}</p>
         </div>
       {% endif %}
       {% if page.next %}
-        <div class="col-md-6 post-nav">
+        <div class="post-nav" {% if page.previous %}style="margin-top: 30px;"{% endif %}>
           <h3 class="section-header">
             Newer
             {% unless page.previous %}
@@ -36,7 +37,8 @@ layout: default
             {% endunless %}
           </h3>
           <h2 class="post-title-link"><a href="{{ page.next.url }}">{{ page.next.title }}</a></h2>
-          {{ page.next.excerpt | markdownify }}
+          {% assign next_excerpt = page.next.content | replace: '_By Al Morris_', '' | replace: 'By Al Morris', '' | replace: '*By Al Morris*', '' | strip_html | truncatewords: 25 %}
+          <p>{{ next_excerpt }}</p>
         </div>
       {% endif %}
     </div>

@@ -10,6 +10,8 @@ _This is part 2/3 in a series on DePIN Economics - Read Part 1 [here](http://eco
 
 The recent collapse of many DePIN launches has exposed a critical flaw in the current approach to building decentralized networks. Many of these projects relied heavily on token and node sales to subsidize pricing and secure B2B contracts, locking themselves into rigid supply models that ignored fundamental economic principles. This shortsightedness led to oversupply, underutilization, and ultimately, the devaluation of their tokens and the crumbling of their networks.
 
+<!--more-->
+
 However, a new paradigm is emerging: **elastic supply models** in decentralized networks. By aligning supply with actual demand, these models offer a sustainable and adaptable path forward in the decentralized landscape.
 
 Drawing from my experiences in economics and decentralized system development, this article explores how **Decentralized Physical Infrastructure Networks (DePINs)** can become productive assets. We'll examine the characteristics that make these networks successful and propose a better approach to building them by embracing elastic supply, learning from the sharing economy, and focusing on long-term sustainability.

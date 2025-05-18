@@ -27,3 +27,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+
+# Excerpt settings
+excerpt_separator: <!--more-->
+show_excerpts: true
