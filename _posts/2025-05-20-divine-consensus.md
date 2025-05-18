@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Unlocking Divine Consensus: How Koii Will Reshape the Future of Cooperation"
-date: 2024-05-20
+date: 2025-05-20
 categories: [economics, collaboration, consensus]
 ---
 
-<!--more-->
-
 There's a pattern beneath everything—something religions, scientists, artists, and engineers all touch in different ways. It's what I've come to think of as *divine consensus*: not a mystical ideal, but the very real moment when everyone, and every system, seems to know what's true—before we rationalize our way out of it.
+
+<!--more-->
 
 Koii is quietly building the tools to make that moment scale.
 
@@ -75,4 +75,4 @@ To ground this vision, here's how four distinct experts might see it:
 
 We're not here to control the world. We're here to help it *recognize itself again*. Every time someone earns a token doing meaningful work, that's a piece of divine consensus made visible. Every time a swarm coordinates to answer a question, that's clarity emerging from complexity.
 
-Koii isn't just a protocol. It's a practice. A way to build not just what's possible—but what we already feel is true when we close our eyes. 
+Koii isn't just a protocol. It's a practice. A way to build not just what's possible—but what we already feel is true when we close our eyes.
