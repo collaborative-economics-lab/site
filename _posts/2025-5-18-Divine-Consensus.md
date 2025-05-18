@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Escaping the Token Apocalypse: How Elastic Supply Can Save Decentralized Networks"
-date: 2024-10-1
-categories: [economics, collaboration, financials]
+title: "Divine Consensus"
+date: 2025-5-18
+categories: [economics, collaboration, consensus]
 ---
 _By Al Morris_
 
