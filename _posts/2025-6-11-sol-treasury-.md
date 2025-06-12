@@ -3,6 +3,7 @@ layout: post
 title: "Why SOL Should Not Be Used as a Treasury Asset"
 date: 2025-6-11
 categories: [economics, collaboration, consensus]
+author: Michael Chase
 ---
 
 
