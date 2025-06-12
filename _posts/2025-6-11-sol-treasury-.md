@@ -1,4 +1,11 @@
-Why SOL Should Not Be Used as a Treasury Asset
+---
+layout: post
+title: "Why SOL Should Not Be Used as a Treasury Asset"
+date: 2025-6-11
+categories: [economics, collaboration, consensus]
+author: Michael Chase
+---
+
 
 The selection of a treasury asset is a foundational financial decision that influences the long-term stability and capital efficiency of a project, DAO, or protocol. While Solana (SOL) has gained popularity for its high-speed blockchain and thriving ecosystem, it is not suited as a primary treasury asset. Here's why:
 
