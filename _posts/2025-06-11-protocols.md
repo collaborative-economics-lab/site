@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Protocols..."
+date: 2025-06-11
+categories: [introduction, economics, collaboration]
+author: Alexander Morris
+---
+
 ## Beyond the Headline: What GDP Per Capita Really Tells Us About Germany, the US, and China
 
 At econ3.org, we often delve into the economic indicators that shape our world. While GDP growth is a common headline, understanding **GDP per capita growth** offers a more nuanced view of how the average individual's economic well-being is changing. But even this crucial metric benefits from deeper context, particularly when considering the evolving value of currencies and the fundamental costs of production.
