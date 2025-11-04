@@ -66,7 +66,7 @@ These projects have committed the cardinal sin of business:
 
 * **Massive Upfront Expenditures:** They've sunk enormous amounts of capital into building networks and selling nodes.  
 * **Fixed Operational Costs:** They're burdened with ongoing expenses that can't be adjusted in response to market conditions.  
-* **Token Inflation:** Any network with a fixed number of nodes has to share the earnings broadly, resulting in wider inflation of the output token and increased sell pressure as each noe only makes just enough to cover fixed costs.  
+* **Token Inflation:** Any network with a fixed number of nodes has to share the earnings broadly, resulting in wider inflation of the output token and increased sell pressure as each node only makes just enough to cover fixed costs.  
 * **Zero Flexibility:** With costs locked in, they have no room to maneuver when things go south.
 
 Ironically, when the sharing economy products first took off, such as Uber or AirBnb, their main value driver was unseating 'licensed markets' such as Taxi Medallions and Hotel Permits. Now, it seems, web3 has come full circle to reinventing the licensing markets and ultimately building back the gatekeeping that created these opportunities in the first place. Good news, though \- Real DePINs can recapture these markets easily with elastic supply\! 

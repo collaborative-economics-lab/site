@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Escaping the Token Apocalypse: How Elastic Supply Can Save Decentralized Networks"
-date: 2024-10-1
+date: 2024-10-01
 categories: [economics, collaboration, financials]
 ---
 _By Al Morris_

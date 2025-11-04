@@ -60,7 +60,7 @@ This is just the beginning. We're working on:
 
 **The choice is clear**: continue allowing centralized platforms to extract value from human culture and attention, or build decentralized systems that reward communities for their contributions while preserving their sovereignty.
 
-Want to dive deeper? The full whitepaper breaks down the technical architecture, economic models, and implementation roadmap. Stay tuned.
+Want to dive deeper? The full whitepaper breaks down the technical architecture, economic models, and implementation roadmap. Stay tuned for future updates by following [x.com/al_from_koii](https://x.com/al_from_koii).
 
 ---
 

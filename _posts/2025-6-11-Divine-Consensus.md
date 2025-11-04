@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why SOL Should Not Be Used as a Treasury Asset"
-date: 2025-6-12
+date: 2025-06-12
 categories: [economics, collaboration, consensus]
 ---
 

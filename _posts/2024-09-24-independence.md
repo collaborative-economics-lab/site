@@ -8,7 +8,7 @@ _This post was written in collaboration with many of the team members at Koii La
 
 _Many of these ideas are also inspired by words from my mentor, Taylor Gerring, who learned them first hand in the early days of Ethereum, Bitcoin, and the broader decentralization-libertarian revolution from 2010 to 2015, and patiently imparted these lessons to me and others._
 
-The new generation of decentralized organizations are horizontal. We learn together, we earn together, and we can beat incumbants in any industry if we do it right. **This new breed of business shares the wealth and the risks, so that we can all win together**. 
+The new generation of decentralized organizations are horizontal. We learn together, we earn together, and we can beat incumbents in any industry if we do it right. **This new breed of business shares the wealth and the risks, so that we can all win together**. 
 
 <!--more-->
 

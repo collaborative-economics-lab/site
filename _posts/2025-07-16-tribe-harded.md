@@ -1,9 +1,9 @@
-
-
-
 ---
-
-From Adversaries to Allies: How Swarm AI and Gradual Consensus Are Rewriting Economic Cooperation
+layout: post
+title: "From Adversaries to Allies: How Swarm AI and Gradual Consensus Are Rewriting Economic Cooperation"
+date: 2025-07-16
+categories: [ai, economics, collaboration]
+---
 
 The Broken Machinery of Capitalist Labor
 
